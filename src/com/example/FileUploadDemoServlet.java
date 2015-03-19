@@ -27,14 +27,7 @@ public class FileUploadDemoServlet extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        String stroka="abcd";
-        UnZipp file = new UnZipp();
-        System.out.println(file.zipName);
-        System.out.println(file.unZipName);
-        file.RunZipp(FilePath,FilePathXML);
-        stroka=file.runparse();
-        req.setAttribute("namestring",stroka);
-        req.getRequestDispatcher("word.jsp").forward(req, resp);
+
     }
 
 
@@ -82,5 +75,14 @@ public class FileUploadDemoServlet extends HttpServlet {
                 e.printStackTrace();
             }
         }
-    }
+
+
+        String stroka="abcd";
+        UnZipp file = new UnZipp();
+        System.out.println(file.zipName);
+        System.out.println(file.unZipName);
+        file.RunZipp(FilePath,FilePathXML);
+        stroka=file.runparse();
+        request.setAttribute("namestring",stroka);
+        request.getRequestDispatcher("index.jsp").forward(request, response); }
 }

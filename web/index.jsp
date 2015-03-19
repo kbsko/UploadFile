@@ -17,6 +17,6 @@
           <input type="submit" value="Upload File"/>
       </form>
   </fieldset>
-
+  WordText: <%=request.getAttribute("namestring")%>
   </body>
 </html>

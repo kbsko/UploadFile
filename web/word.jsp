@@ -11,6 +11,6 @@
     <title></title>
 </head>
 <body>
-  WordText: <%=request.getAttribute("namestring")%>
+
 </body>
 </html>

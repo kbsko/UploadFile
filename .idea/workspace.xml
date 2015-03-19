@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="463909c5-6eb6-495e-a6b5-b178dc3e3789" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/unzip/UnZipp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/word.jsp" />
-      <change type="DELETED" beforePath="C:\Users\Kubish\IdeaProjects\untitled6\web\upload\nam.docx" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/FileUploadDemoServlet.java" afterPath="$PROJECT_DIR$/src/com/example/FileUploadDemoServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/word.jsp" afterPath="$PROJECT_DIR$/web/word.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="untitled6.iws" />
@@ -78,16 +76,16 @@
       <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="22" selection-start="965" selection-end="965" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+            <state line="28" column="22" selection-start="965" selection-end="965" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="663">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="13" selection-start="524" selection-end="524" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="459">
+            <state line="21" column="7" selection-start="594" selection-end="594" vertical-scroll-proportion="0.62852114" vertical-offset="0" max-vertical-offset="568">
               <folding />
             </state>
           </provider>
@@ -96,7 +94,7 @@
       <file leaf-file-name="FileUploadDemoServlet.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/FileUploadDemoServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="43" selection-start="1373" selection-end="1373" vertical-scroll-proportion="0.0" vertical-offset="239" max-vertical-offset="1547">
+            <state line="76" column="9" selection-start="2891" selection-end="2891" vertical-scroll-proportion="0.0" vertical-offset="681" max-vertical-offset="1581">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,10 +102,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="word.jsp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="word.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/word.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="331" selection-end="331" vertical-scroll-proportion="0.47887325" vertical-offset="0" max-vertical-offset="568">
+            <state line="13" column="0" selection-start="263" selection-end="263" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
@@ -116,7 +114,7 @@
       <file leaf-file-name="UnZipp.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/unzip/UnZipp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="5" selection-start="1028" selection-end="1028" vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="1938">
+            <state line="35" column="5" selection-start="1028" selection-end="1028" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="2108">
               <folding />
             </state>
           </provider>
@@ -136,12 +134,12 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/upload/UploadFile.java" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/com/unzip/DocZip.java" />
         <option value="$PROJECT_DIR$/src/com/unzip/UnZipp.java" />
         <option value="$PROJECT_DIR$/src/com/example/FileUploadDemoServlet.java" />
         <option value="$PROJECT_DIR$/web/word.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
       </list>
     </option>
   </component>
@@ -673,12 +671,18 @@
       <updated>1426757053861</updated>
       <workItem from="1426757058540" duration="5696000" />
       <workItem from="1426768798430" duration="3349000" />
-      <workItem from="1426776427041" duration="3459000" />
+      <workItem from="1426776427041" duration="4436000" />
+      <workItem from="1426792346138" duration="268000" />
     </task>
+    <task id="LOCAL-00001" summary="Init test WordReader">
+      <created>1426779934687</created>
+      <updated>1426779934687</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12504000" />
+    <option name="totallyTimeSpent" value="13749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
@@ -689,7 +693,6 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -711,6 +714,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -726,6 +730,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Init test WordReader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init test WordReader" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -735,6 +741,43 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="22" selection-start="965" selection-end="965" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/FileUploadDemoServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="36" selection-start="3206" selection-end="3206" vertical-scroll-proportion="0.0" vertical-offset="953" max-vertical-offset="1564">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/word.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/unzip/UnZipp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="5" selection-start="1028" selection-end="1028" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="2108">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="58" selection-start="888" selection-end="888" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
@@ -779,13 +822,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="13" selection-start="524" selection-end="524" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="22" selection-start="965" selection-end="965" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
@@ -802,7 +838,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/FileUploadDemoServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="43" selection-start="1373" selection-end="1373" vertical-scroll-proportion="0.0" vertical-offset="239" max-vertical-offset="1547">
+        <state line="76" column="9" selection-start="2891" selection-end="2891" vertical-scroll-proportion="0.0" vertical-offset="681" max-vertical-offset="1581">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -811,7 +847,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/word.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="331" selection-end="331" vertical-scroll-proportion="0.47887325" vertical-offset="0" max-vertical-offset="568">
+        <state line="13" column="0" selection-start="263" selection-end="263" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="7" selection-start="594" selection-end="594" vertical-scroll-proportion="0.62852114" vertical-offset="0" max-vertical-offset="568">
           <folding />
         </state>
       </provider>
